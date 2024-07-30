@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactdev-learn/static/css/main.e6c13ad2.css",
+    "main.js": "/reactdev-learn/static/js/main.a9b25b93.js",
+    "static/js/453.ad6eb26e.chunk.js": "/reactdev-learn/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/reactdev-learn/index.html",
+    "main.e6c13ad2.css.map": "/reactdev-learn/static/css/main.e6c13ad2.css.map",
+    "main.a9b25b93.js.map": "/reactdev-learn/static/js/main.a9b25b93.js.map",
+    "453.ad6eb26e.chunk.js.map": "/reactdev-learn/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a9b25b93.js"
+  ]
+}
